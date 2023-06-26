@@ -1,0 +1,19 @@
+{
+    "name": "sanket/primenumbergenerator",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sanket\\Primenumbergenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sanket1206",
+            "email": "126146819+sanket1206@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
